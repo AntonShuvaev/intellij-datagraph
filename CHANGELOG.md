@@ -1,6 +1,10 @@
 Change Log
 ----------
 
+## Version 1.0.1 (2023-08-13)
+### Fixed
+- Minor fixes
+
 ## Version 1.0.0 (2023-08-10)
 ### Added
 - Initial release
