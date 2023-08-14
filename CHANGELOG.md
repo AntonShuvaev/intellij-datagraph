@@ -1,9 +1,10 @@
 Change Log
 ----------
 
-## Version 1.0.1 (2023-08-13)
+## Version 1.0.1 (2023-08-14)
 ### Fixed
-- Minor fixes
+- FileNotFoundException occurs on Windows
+- Other minor fixes
 
 ## Version 1.0.0 (2023-08-10)
 ### Added
