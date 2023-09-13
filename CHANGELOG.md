@@ -1,6 +1,10 @@
 Change Log
 ----------
 
+## Version 1.0.2 (2023-09-13)
+### Changed
+- Switch pricing model to freemium. Now you can use the plugin for free for files of small size, but to use it for larger files, you need to purchase a license.
+
 ## Version 1.0.1 (2023-08-14)
 ### Fixed
 - FileNotFoundException occurs on Windows
