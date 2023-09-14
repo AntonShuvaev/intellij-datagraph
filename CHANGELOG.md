@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.0.3 (2023-09-14)
+### Fixed
+- Fixed issue where selecting an element in the editor did not always select it in the graph.
+- Resolved "IncorrectOperationException: parent has already been disposed" exception that could occur.
 
 ## Version 1.0.2 (2023-09-13)
 ### Changed
