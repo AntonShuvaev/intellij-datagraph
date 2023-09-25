@@ -1,5 +1,10 @@
 Change Log
 ----------
+## Version 1.0.4 (2023-09-25)
+### Fixed
+- Zooming in the graph view now works as expected
+- "IllegalArgumentException: Width (0) and height (0) cannot be <= 0" might occur
+
 ## Version 1.0.3 (2023-09-14)
 ### Fixed
 - Fixed issue where selecting an element in the editor did not always select it in the graph.
