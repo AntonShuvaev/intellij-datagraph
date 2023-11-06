@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.0.5 (2023-11-06)
+### Fixed
+- Fixed minor issues
+
 ## Version 1.0.4 (2023-09-25)
 ### Fixed
 - Zooming in the graph view now works as expected
