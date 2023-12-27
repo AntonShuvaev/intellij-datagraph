@@ -1,5 +1,11 @@
 Change Log
 ----------
+## Version 1.1.0 (2023-12-27)
+### Changed
+- Improved visual appearance of the graph view
+### Performance
+- Improved performance of the graph view
+
 ## Version 1.0.5 (2023-11-06)
 ### Fixed
 - Fixed minor issues
