@@ -15,6 +15,8 @@ Here's what you can do with DataGraph:
 
 Inspired by the JsonCrack tool, DataGraph offers additional advantages, including tight integration with the editor and the ability to work locally without sending data to a server, making it safe to use with sensitive data.
 
-<img src="images/screenshot1.webp" alt="Screenshot of DataGraph Plugin for JetBrains IDEs"/>
+<img src="images/screenshot-1.webp" alt="Screenshot of DataGraph Plugin for JetBrains IDEs"/>
 
-<img src="images/screenshot2.webp" alt="Screenshot of DataGraph Plugin for JetBrains IDEs"/>
+<img src="images/screenshot-2.webp" alt="Screenshot of DataGraph Plugin for JetBrains IDEs"/>
+
+<img src="images/screenshot-3.webp" alt="Screenshot of DataGraph Plugin for JetBrains IDEs"/>
