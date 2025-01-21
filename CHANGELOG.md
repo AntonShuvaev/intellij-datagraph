@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.1.1 (2025-01-21)
+### Fixed
+- Fixed issue where boolean and null values were not displayed in the graph view
+
 ## Version 1.1.0 (2023-12-27)
 ### Changed
 - Improved visual appearance of the graph view
