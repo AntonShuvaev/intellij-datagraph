@@ -1,5 +1,10 @@
 Change Log
 ----------
+## Version 1.1.2 (2026-05-12)
+### Fixed
+- Fixed UI freeze that could occur when opening large files due to expensive PSI traversal in the folding listener
+- Fixed editor open hanging up to 30 seconds or failing on systems with broken JCEF runtime; the preview now shows an inline "JCEF unsupported" message instead of blocking the editor or showing a modal dialog at startup
+
 ## Version 1.1.1 (2025-01-21)
 ### Fixed
 - Fixed issue where boolean and null values were not displayed in the graph view
